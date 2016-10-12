@@ -8,9 +8,9 @@
 using namespace std;
 
 #define n 10000			//number of points on a plane z=c
-#define eta 1e-2			//rate at which bubble collapses/expands
+#define eta 1e-2		//rate at which bubble collapses/expands
 #define ep 1e-5			//stopping condition for gradient descent
-#define c 1				//initial plane z=c on which we will generate random x and y
+#define c 1			//initial plane z=c on which we will generate random x and y
 
 int main() {
 	double x[n], y[n];
@@ -32,6 +32,7 @@ int main() {
 	
 	//loop until z plane is above z=ep
 	while(z>ep){
+		
 		//generating filenames to store all values of x and y
 		//that are present on a single plane
 		string s = to_string(i);
