@@ -1,2 +1,2 @@
 Bubble formulation using Level Set method
-http://r.events.1000fires.in/mk/un/AhXlMUebTkKTX3akQOYBJPwdlXUL04MK1gHaVYf2lUAL0x63rAxzHK1IJEr6nxxjVu6g2_CTSkcYrEF0-pqyFQqFJF6718wJcH74XBzehufb5YN55-JgPbwjxjirC53U6kZvhy3pGRAVKf7UZtf1zvvi1A
+https://www.globalqualification.com/unsubscribe.php?M=3946860&C=11f71672a209b54b3697d410f793a718&L=5&N=9994
